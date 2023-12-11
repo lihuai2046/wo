@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:-1 ，1.
 https://pt1.putaozy.info/20230508/8C23D9FA1A15C9C0/hls/2000k/index.m3u8
 #EXTINF:-1 ，2.
@@ -131,8 +131,9 @@ https://t6s.cdn2020.com/video/m3u8/2021/01/07/f7d4ae8b/index.m3u8
 https://t7.cdn2020.com/video/m3u8/2021/07/14/d7cdac3d/index.m3u8
 #EXTINF:-1 ，66
 https://t5s.cdn2020.com/video/m3u8/2020/12/14/837b0402/index.m3u8
-#EXTINF:-1 ，67古惑仔1
-https://ikcdn01.ikzybf.com/20221209/qR35tZJy/index.m3u8
+#EXTINF:-1 ，67
+https://video15.bpzy1.com/video/20220221/f9f67d7c459ad9b70e1ce92a4d9c9443/index.m3u8
+
 #EXTINF:-1 ，68
 https://vip1.155bf.com/20231115/UVUKMGnI/index.m3u8
 #EXTINF:-1 ，69
@@ -152,13 +153,17 @@ https://play3.sewocdn1.com/20231120/gClOjFj9/index.m3u8
 #EXTINF:-1 ，76
 https://v.xbv2.com/20231003/8gl0kxlz/index.m3u8
 #EXTINF:-1 ，77
-https://video-lm-b.fullxhcdn.com/token=nva=1701680400~dirs=5~hash=029b9591961cefb908bb5/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:,1920x1080:1080p:/021/940/634/_TPL_.av1.mp4.m3u8
+https://play4.laoyacdn.com/20231127/mLWMTTaZ/index.m3u8
+
 #EXTINF:-1 ，78
-https://video-lm-b.fullxhcdn.com/token=nva=1701684000~dirs=5~hash=0a4c9cfb83e2e7cd65de8/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:/009/509/402/_TPL_.av1.mp4.m3u8
+https://play4.laoyacdn.com/20231027/ovSLchCf/index.m3u8
+
 #EXTINF:-1 ，79
-https://video.fullxhcdn.com/key=AetGmo-ZzuGuYq+Vte2tZA,end=1701684000/data=107.174.35.170-dvp/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:/006/701/593/_TPL_.av1.mp4.m3u8
+https://play4.laoyacdn.com/20231027/WUoakG1J/index.m3u8
+
 #EXTINF:-1 ，80
-https://video-lm-b.fullxhcdn.com/token=nva=1701684000~dirs=5~hash=098899761a4bcb374e288/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:/018/897/531/_TPL_.av1.mp4.m3u8
+https://play2.laoyacdn.com/20221117/yp7uJL4j/index.m3u8
+
 #EXTINF:-1 ，81 黑衣人3
 https://vip.ffzy-online4.com/20230410/19092_cf3f5b5e/index.m3u8
 #EXTINF:-1 ，82
