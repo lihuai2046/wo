@@ -1,44 +1,70 @@
 ﻿#EXTM3U
-#EXTINF:-1 ,电影台51
-http://bp-caster.bestv.com.cn/532/1/video.m3u8
-#EXTINF:-1 ,电影台52
-http://bp-caster.bestv.com.cn/490/1/video.m3u8
-#EXTINF:-1 ,电影台53
-http://bp-caster.bestv.com.cn/480/1/video.m3u8
-#EXTINF:-1 ,午夜影院
-https://pull.kktv8.com/livekktv/99592190/playlist.m3u8
-#EXTINF:-1 ,喜剧电影2
-http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-#EXTINF:-1 ,悦悦电影
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351537467
-#EXTINF:-1 ,帝艺电影
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1350670730
-#EXTINF:-1 ,武侠剧场1
+#EXTINF:-1 ,天道
+https://live.metshop.top/yy/1382735574
+#EXTINF:-1 ,雍正王朝
+https://live.metshop.top/huya/11342439
+#EXTINF:-1 ,老三国
+https://live.metshop.top/huya/11602081
+#EXTINF:-1 ,新三国
+https://live.metshop.top/huya/11352944
+#EXTINF:-1 ,庆余年
+https://live.metshop.top/huya/11352960
+#EXTINF:-1 ,叛逆者
+https://live.metshop.top/yy/1382736868
+#EXTINF:-1 ,神雕
+https://live.metshop.top/yy/1351762426
+#EXTINF:-1 ,天龙
+https://live.metshop.top/yy/1351814644
+#EXTINF:-1 ,鹿鼎记
+https://live.metshop.top/yy/1354658049
+#EXTINF:-1 ,鹿鼎记2
+https://live.metshop.top/yy/1382704650
+#EXTINF:-1 ,神雕倚天
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351762426
-#EXTINF:-1 ,古装剧场1
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351814644
-#EXTINF:-1 ,传奇剧场
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352227153
-#EXTINF:-1 ,避风港影院
-http://huanqiuzhibo.cn/manifest/douyu.php?id=9826611
-#EXTINF:-1 ,双滦电影
-https://jwcdnqx.hebyun.com.cn/live/slys/1500k/tzwj_video.m3u8
-#EXTINF:-1 ,新泰影视
-http://111.17.214.4:1935/live/xtys/playlist.m3u8
-#EXTINF:-1 ,河北影视
-https://jwplay.hebyun.com.cn:443/live/hbystv/1500k/tzwj_video.m3u8
-#EXTINF:-1 ,溧水影视
-https://live.lsrmw.cn/ysyl/sd/live.m3u8
-#EXTINF:-1 ,隆化影视
-http://hblh.chinashadt.com:2036/live/stream:lh2.stream/HasBahCa.m3u8
-#EXTINF:-1 ,武强影视
-http://hbwq.chinashadt.com:2035/live/stream:wqys.stream/HasBahCa.m3u8
-#EXTINF:-1 ,CHC家庭影院
-http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,CHC动作电影
-http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,德云社1
+#EXTINF:-1 ,封神榜
+https://live.metshop.top/yy/1353426319
+#EXTINF:-1 ,我爱我家
+https://live.metshop.top/yy/1382735557
+#EXTINF:-1 ,渴望
+https://live.metshop.top/yy/1354930963
+#EXTINF:-1 ,编辑部的故事
+https://live.metshop.top/yy/1354936120
+#EXTINF:-1 ,家有九凤
+https://live.metshop.top/yy/1354930894
+#EXTINF:-1 ,红楼梦
+https://live.metshop.top/yy/1382745084
+#EXTINF:-1 ,新白
+https://live.metshop.top/yy/1354490667
+#EXTINF:-1 ,斗破苍穹
+https://live.metshop.top/yy/1356051105
+#EXTINF:-1 ,德云社
 https://live.goodiptv.club/api/huya.php?id=25639846
+#EXTINF:-1 ,郭德纲
+https://live.metshop.top/huya/28274529
+#EXTINF:-1 ,赵本山
+https://live.metshop.top/yy/1382683959
+#EXTINF:-1 ,赵本山2
+https://live.metshop.top/yy/1354936217
+#EXTINF:-1 ,小沈阳
+https://live.metshop.top/yy/1382749941
+#EXTINF:-1 ,83射雕
+https://live.metshop.top/yy/1354210357
+#EXTINF:-1 ,笑傲江湖
+https://live.metshop.top/yy/1354936128
+#EXTINF:-1 ,周星驰
+https://live.metshop.top/huya/11342412
+#EXTINF:-1 ,漫威
+https://live.metshop.top/yy/1354930181
+#EXTINF:-1 ,速激情
+https://live.metshop.top/yy/1382749892
+#EXTINF:-1 ,第一滴血
+https://live.metshop.top/yy/1354932355
+#EXTINF:-1 ,小鬼当家
+https://live.metshop.top/yy/1382745104
+#EXTINF:-1 ,舌尖1
+https://live.metshop.top/yy/1354930952
+#EXTINF:-1 ,舌尖2
+https://live.metshop.top/yy/1354930943
 #EXTINF:-1 ,鹿鼎记
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=28265277
 #EXTINF:-1 ,新三国
@@ -277,6 +303,44 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
 https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 #EXTINF:-1 ,春晚2020
 http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+#EXTINF:-1 ,电影台51
+http://bp-caster.bestv.com.cn/532/1/video.m3u8
+#EXTINF:-1 ,电影台52
+http://bp-caster.bestv.com.cn/490/1/video.m3u8
+#EXTINF:-1 ,电影台53
+http://bp-caster.bestv.com.cn/480/1/video.m3u8
+#EXTINF:-1 ,午夜影院
+https://pull.kktv8.com/livekktv/99592190/playlist.m3u8
+#EXTINF:-1 ,喜剧电影2
+http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+#EXTINF:-1 ,悦悦电影
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351537467
+#EXTINF:-1 ,帝艺电影
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1350670730
+#EXTINF:-1 ,武侠剧场1
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351762426
+#EXTINF:-1 ,古装剧场1
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351814644
+#EXTINF:-1 ,传奇剧场
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352227153
+#EXTINF:-1 ,避风港影院
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9826611
+#EXTINF:-1 ,双滦电影
+https://jwcdnqx.hebyun.com.cn/live/slys/1500k/tzwj_video.m3u8
+#EXTINF:-1 ,新泰影视
+http://111.17.214.4:1935/live/xtys/playlist.m3u8
+#EXTINF:-1 ,河北影视
+https://jwplay.hebyun.com.cn:443/live/hbystv/1500k/tzwj_video.m3u8
+#EXTINF:-1 ,溧水影视
+https://live.lsrmw.cn/ysyl/sd/live.m3u8
+#EXTINF:-1 ,隆化影视
+http://hblh.chinashadt.com:2036/live/stream:lh2.stream/HasBahCa.m3u8
+#EXTINF:-1 ,武强影视
+http://hbwq.chinashadt.com:2035/live/stream:wqys.stream/HasBahCa.m3u8
+#EXTINF:-1 ,CHC家庭影院
+http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CHC动作电影
+http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,BesTV春晚
 http://bp-caster.bestv.com.cn:80/435/3/video.m3u8
 #EXTINF:-1 ,BesTV跨年
