@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:-1 group-title="玩偶",玩偶•橘子猫「合作集」
 https://v4.cvhlscdn.com/20230426/guDLBTn8/hls/index.m3u8
 #EXTINF:-1 group-title="玩偶",真心话大冒险「情人节特辑」
@@ -9,6 +9,8 @@ https://v4.cvhlscdn.com/20230216/iw7LeEbx/hls/index.m3u8
 https://v4.cvhlscdn.com/20221204/dDLVEjQM/hls/index.m3u8
 #EXTINF:-1 group-title="玩偶",情侣游戏 壹
 https://v4.cvhlscdn.com/20230129/zqeHgwbd/hls/index.m3u8
+#EXTINF:-1 group-title="玩偶",情侣游戏 零
+https://t21.cdn2020.com/video/m3u8/2023/04/25/a97408db/index.m3u8
 #EXTINF:-1 group-title="玩偶",一日女友的漂亮姐姐 上
 
 #EXTINF:-1 group-title="玩偶",一日女友的漂亮姐姐 中
@@ -22,7 +24,7 @@ https://v4.cvhlscdn.com/20230129/zqeHgwbd/hls/index.m3u8
 #EXTINF:-1 group-title="玩偶",森林00-她的妄想
 
 #EXTINF:-1 group-title="玩偶",森林01-相遇
-
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/e278a64b/index.m3u8
 #EXTINF:-1 group-title="玩偶",森林02-欺骗
 
 #EXTINF:-1 group-title="玩偶",森林03-碎裂
@@ -114,7 +116,7 @@ https://v4.cvhlscdn.com/20221105/J0hLzAts/hls/index.m3u8
 #EXTINF:-1 group-title="玩偶",短片-懒惰
 
 #EXTINF:-1 group-title="玩偶",短片-快乐时光
-
+https://t21.cdn2020.com/video/m3u8/2023/04/13/6b00abe1/index.m3u8
 #EXTINF:-1 group-title="玩偶",短片-「流」
 https://v4.cvhlscdn.com/20211103/fF6r1loI/hls/index.m3u8
 #EXTINF:-1 group-title="玩偶",短片-「2022」
