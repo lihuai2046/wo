@@ -1,6 +1,9 @@
 ﻿#EXTM3U
 #EXTINF:-1 ,阿里巴巴与四十大盗
 https://m3u8.ccyjjd.com/data/sohu/812885.m3u8
+#EXTINF:-1 ,寻龙诀
+https://vip.kuaikan-play2.com/20230331/fzxhFGJQ/index.m3u8
+
 #EXTINF:-1 ,龙门飞甲
 https://vip.ffzy-play6.com/20221204/9575_e7d99a3f/index.m3u8
 #EXTINF:-1 ,四大名捕1
@@ -21,8 +24,6 @@ https://vip.ffzy-online.com/20221017/824_ea9e73dd/index.m3u8
 https://vip.ffzy-online.com/20221017/825_f13c075f/index.m3u8
 #EXTINF:-1 ,我不是药神
 https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
-#EXTINF:-1 ,星际穿越
-https://vip.ffzy-play6.com/20221027/2370_77b8eb4e/index.m3u8
 #EXTINF:-1 ,中华英雄
 https://vip.ffzy-play7.com/20221129/7742_d42ce883/index.m3u8
 #EXTINF:-1 ,机械姬
@@ -33,28 +34,34 @@ https://vip.lz-cdn1.com/20220531/7041_1d8ec04a/index.m3u8
 https://vip.ffzy-online.com/20221017/928_b3a4feba/index.m3u8
 #EXTINF:-1 ,观音山
 https://vip.lz-cdn1.com/20220420/2669_3e8eb610/index.m3u8
-#EXTINF:-1 ,泰坦尼克号
-http://m35.grelighting.cn/m3u8/VEdWMGpqb0JVWkJCdlRLems4UG9sRDRUTkcxUWpVQzg=.m3u8
-#EXTINF:-1 ,黑衣人1
+#EXTINF:-1 ,观音山1080p
+https://vip.kuaikan-cdn3.com/20230409-1/i0rmXjQ7/index.m3u8
+#EXTINF:-1 ,泰坦尼克号720p
+https://ikcdn01.ikzybf.com/20230510/ZvZuW7v1/index.m3u8
+#EXTINF:-1 ,黑衣人1-1080p
 https://www.dmzybf.com/Playvideo/outrun/live/357530357152786959774338466f574a3574704948773d3d.m3u8
 #EXTINF:-1 ,黑衣人2
 https://www.dmzybf.com/Playvideo/outrun/live/42626868664e5731426b794b7169775a36556d615a773d3d.m3u8
 #EXTINF:-1 ,黑衣人3
 https://vip.ffzy-online4.com/20230410/19092_cf3f5b5e/index.m3u8
-#EXTINF:-1 ,终结者2
-http://m35.grelighting.cn/m3u8/ZlNsUStHSFFRUFY0bW9FTkgrQWFWYk1iaDRuTmlTUkE=.m3u8
-#EXTINF:-1 ,终结者3
-http://m35.grelighting.cn/m3u8/WlVtcHFMWERlRi9JNjBFNHNlZndick1iaDRuTmlTUkE=.m3u8
-#EXTINF:-1 ,终结者-创世纪
-http://m35.grelighting.cn/m3u8/Z3JpWTNQaVBzdFpUZjVVeWtrdlhVdz09.m3u8
-#EXTINF:-1 ,观音山
-http://m35.grelighting.cn/m3u8/ZjZKRlRhSEpUK0RweEZieW5ERXMxQT09.m3u8
-#EXTINF:-1 ,寒战1
+#EXTINF:-1 ,终结者2审判日1991-4k
+https://v91.whweitao.com/202311/16/qDV4QP4ibN2/video/index.m3u8
+#EXTINF:-1 ,终结者3机器的反叛2003-1080p
+https://ukzy.ukubf3.com/20220402/890BPUGT/index.m3u8
+#EXTINF:-1 ,终结者4创世纪2015-720p
+https://vip.kuaiyun3-cdn.com/20230402/LRyyzrLe/index.m3u8
+#EXTINF:-1 ,终结者5黑暗命运2019-720p
+https://v6.suonizy-youku.com/202311/13/aYjWG48hdK1/video/index.m3u8
+#EXTINF:-1 ,寒战1-720p
+https://v1.suonizy-youku.com/202308/19/5P6ixbmwDG2/video/index.m3u8
+#EXTINF:-1 ,寒战1-720p
 https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
 #EXTINF:-1 ,寒战2-720p
 https://www.dmzybf.com/Playvideo/outrun/live/35712f39653334744939506c71524b6d6151364e59413d3d.m3u8
 #EXTINF:-1 ,寒战2-720p
 https://s1.bfzycdn.com/video/hanzhan2/HD%E5%9B%BD%E8%AF%AD/index.m3u8
+#EXTINF:-1 ,星际穿越-1080p
+https://vip.ffzy-play6.com/20221027/2370_77b8eb4e/index.m3u8
 #EXTINF:-1 ,明日边缘-汤姆克鲁斯
 https://vip.ffzy-play7.com/20221028/545_59fc39b3/index.m3u8
 #EXTINF:-1 ,遗落战境-阿汤
@@ -103,24 +110,26 @@ https://ikcdn01.ikzybf.com/20221003/Q4UBtkJo/index.m3u8
 https://qq.sd-play.com/20220221/M1azIfwo/index.m3u8?yqk=aeffc52aa7f0a93d2c0fff5b9bff7f8b
 #EXTINF:-1 ,古惑仔6胜者为王粤语
 https://cdn2.yzzy-kb-cdn.com/20220413/12897_2f3d2832/index.m3u8
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,黑衣人1-531p
-https://vip.ffzy-play7.com/20230218/15162_d175c92b/index.m3u8
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
+#EXTINF:-1 ,异形一1979-720p
+https://vip.kuaikan-play1.com/20230308/U8A3YpsL/index.m3u8
+#EXTINF:-1 ,异形二1986-1080p
+https://s2.bfzycdn.com/video/yixing2/HD%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 ,异形三1992-720p
+https://ikcdn01.ikzybf.com/20221003/TG0shDLU/index.m3u8
+#EXTINF:-1 ,异形四1997-680p
+https://cdn7.yzzy-online.com/20220804/10105_4ce73885/index.m3u8
+#EXTINF:-1 ,异形普罗米修斯2012-720p
+https://ikcdn01.ikzybf.com/20221010/ckIa1IEb/index.m3u8
+#EXTINF:-1 ,异形普罗米修斯2012-1080p
+https://hnzy.bfvvs.com/play/Yer2Ar4e/index.m3u8
+#EXTINF:-1 ,异形契约2017-1080p
+https://cdn13.yzzy-online.com/20230316/17152_74ef4425/index.m3u8
+#EXTINF:-1 ,指环王1护戒使者-1080p
+https://v3.suonizy-youku.com/202311/20/Bhp1hvy9wV2/video/index.m3u8
+#EXTINF:-1 ,指环王2双塔奇兵-1080p
+https://vip.kuaiyun3-cdn.com/20230424-187/euqSz6sC/index.m3u8
+#EXTINF:-1 ,指环王3王者归来-1080p
+https://vip.kuaikan-cdn3.com/20230331/Wzm4zbn9/index.m3u8
 #EXTINF:-1 ,
 
 #EXTINF:-1 ,
