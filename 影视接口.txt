@@ -9,6 +9,7 @@ owen直播：https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.txt +�
 fty直播线：https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt
 欧歌单仓：http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2
 欧文单仓：https://jihulab.com/owen2000wy/owentv/-/raw/main/OwenTV.json
+小米线路：https://fastly.jsdelivr.net/gh/lihuai2046/wo@main/xiaomi.json
 南风线路：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 夜猫子线：https://jihulab.com/ymz1231/xymz/-/raw/main/ymz
 荷城茶秀：https://jihulab.com/z-blog/xh2/-/raw/main/t.json
@@ -17,6 +18,7 @@ fty直播线：https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt
 吾爱能用：http://52bsj.vip:98/wuai
 dxawi0线：https://xhdwc.tk/0
 荷城备用：http://rihou.cc:88/荷城茶秀
+
 
 fongmi单仓  521影视支持磁力 115版不能进荷城..崩！
 https://agit.ai/ystvy/yydsy/raw/branch/master/sub/ati.json  
