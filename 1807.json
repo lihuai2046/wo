@@ -1,5 +1,5 @@
 ﻿{
-"spider":"https://raw.githubusercontent.com/xiaomi128/opp/main/1.jar;md5;7dce83663b899ef6df33fef9bbe241f8",
+"spider":"https://raw.fastgit.org/xiaomi128/opp/main/1.jar;md5;7dce83663b899ef6df33fef9bbe241f8",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vYnJlYWRteXRoL3R2L3Jhdy9icmFuY2gvbWFpbi9saXZlL2h1eWEudHh0"
 ]}]}],
