@@ -48,7 +48,7 @@ https://ghproxy.net/https://raw.githubusercontent.com/lihuai2046/wo/main/老片.
 https://ghproxy.net/https://raw.githubusercontent.com/lihuai2046/wo/main/1800.json
 https://raw.gitmirror.com/lihuai2046/wo/main/lp1.json
 https://fastly.jsdelivr.net/gh/lihuai2046/wo@main/老片.txt  日本写法
-https://raw.fastgit.org/lihuai2046/wo/main/lp1.json
+https://raw.fastgit.org/lihuai2046/wo/main/1800.json
 
 agit线路写法：
 https://agit.ai/账号/仓库/raw/branch/master/线路.txt
