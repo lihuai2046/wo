@@ -7,8 +7,9 @@
 pluto以下测试全部通过秒播：直播源支持txt格式，不能快进
 owen直播：https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.txt +北京广播
 fty直播线：https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt
-欧歌单仓：http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2
+欧歌家庭：http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2
 欧文单仓：https://jihulab.com/owen2000wy/owentv/-/raw/main/OwenTV.json
+月光宝盒：https://raw.fastgit.org/lihuai2046/wo/main/ygbox.json
 小米线路：https://fastly.jsdelivr.net/gh/lihuai2046/wo@main/xiaomi.json
 南风线路：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 夜猫子线：https://jihulab.com/ymz1231/xymz/-/raw/main/ymz
@@ -18,7 +19,7 @@ fty直播线：https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt
 吾爱能用：http://52bsj.vip:98/wuai
 dxawi0线：https://xhdwc.tk/0
 荷城备用：http://rihou.cc:88/荷城茶秀
-
+小胡同学：http://xiaohu.xzam.cn/xiaohu
 
 fongmi单仓  521影视支持磁力 115版不能进荷城..崩！
 https://agit.ai/ystvy/yydsy/raw/branch/master/sub/ati.json  
@@ -50,7 +51,7 @@ https://ghproxy.net/https://raw.githubusercontent.com/lihuai2046/wo/main/老片.
 https://ghproxy.net/https://raw.githubusercontent.com/lihuai2046/wo/main/1800.json
 https://raw.gitmirror.com/lihuai2046/wo/main/lp1.json
 https://fastly.jsdelivr.net/gh/lihuai2046/wo@main/老片.txt  日本写法
-https://raw.fastgit.org/lihuai2046/wo/main/1800.json
+https://raw.fastgit.org/lihuai2046/wo/main/ygbox.json
 
 agit线路写法：
 https://agit.ai/账号/仓库/raw/branch/master/线路.txt
