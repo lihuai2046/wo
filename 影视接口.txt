@@ -3,32 +3,64 @@
 
 遇到m3u链接过长无法播放，需要在线URL解码一下，能找到真实地址
 
-pluto以下测试全部通过秒播：直播源支持txt格式，不能快进
-owen直播：https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.txt +北京广播
-fty直播线：https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt
-欧歌家线：http://tv.nxog.top/m/333.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌
-欧歌备用：http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2
-欧文单仓：https://jihulab.com/owen2000wy/owentv/-/raw/main/OwenTV.json
-肥猫线路：https://raw.fastgit.org/lihuai2046/wo/main/feimao.json
-月光宝盒：https://raw.fastgit.org/lihuai2046/wo/main/ygbox.json
-小米线路：https://fastly.jsdelivr.net/gh/lihuai2046/wo@main/xiaomi.json
-南风线路：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
-夜猫子线：https://jihulab.com/ymz1231/xymz/-/raw/main/ymz
-荷城茶秀：https://jihulab.com/z-blog/xh2/-/raw/main/t.json
-巧计线路：http://pandown.pro/tvbox/tvbox.json
-运输车vip：http://tvkj.top/DC/ysc/tvkj/svip.json
-吾爱能用：http://52bsj.vip:98/wuai
-dxawi0线：https://xhdwc.tk/0
-荷城备用：http://rihou.cc:88/荷城茶秀
-小胡同学：http://xiaohu.xzam.cn/xiaohu
+pluto多仓：全部秒播：直播源支持txt格式，不能快进
+💖owen直播：https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.txt +北京广播
+💖fty直播线：https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt
+💖欧歌家线：http://tv.nxog.top/m/333.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌
+💖欧歌备用：http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2
+💖欧文单仓：https://jihulab.com/owen2000wy/owentv/-/raw/main/OwenTV.json
+💖肥猫线路：https://raw.fastgit.org/lihuai2046/wo/main/feimao.json
+💖月光宝盒：https://raw.fastgit.org/lihuai2046/wo/main/ygbox.json
+💖小米线路：https://fastly.jsdelivr.net/gh/lihuai2046/wo@main/xiaomi.json
+💖南风线路：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+💖夜猫子线：https://jihulab.com/ymz1231/xymz/-/raw/main/ymz
+💖荷城茶秀：https://jihulab.com/z-blog/xh2/-/raw/main/t.json
+💖巧计线路：http://pandown.pro/tvbox/tvbox.json
+💖运输车vip：http://tvkj.top/DC/ysc/tvkj/svip.json
+💖吾爱能用：http://52bsj.vip:98/wuai
+💖dxawi0线：https://xhdwc.tk/0
+💖荷城备用：http://rihou.cc:88/荷城茶秀
+💖小胡同学：http://xiaohu.xzam.cn/xiaohu
 
 fongmi单仓  521影视支持磁力 115版不能进荷城..崩！
+🚀多多家庭，http://tvkj.top/DC/dd/tvkj/svip.json
+🚀七星影视，http://tvkj.top/七星/svip.json
+🚀饭硬专线，http://tvkj.top/DC/fty/tvkj/svip.json
+🚀阿里专线，http://tvkj.top/DC/al/tvkj/svip.json
+🚀4K视界   ，http://tvkj.top/DC/sj/tvkj/svip.json
+🚀肥猫线路，http://tvkj.top/DC/fm/tvkj/svip.json
+🚀运输车vip，http://tvkj.top/DC/ysc/tvkj/svip.json
+🚀道长线路，http://tvkj.top/DC/dz/tvkj/svip.json
+🚀天薇视讯，http://tvkj.top/DC/tvys/svip.json
+🚀天薇视讯，http://tvkj.top/tv4k/svip.json
+🚀南风线路，http://tvkj.top/DC/nf/tvkj/svip.json
+🚀巧儿线路，http://tvkj.top/巧儿/api.json
+🚀云星日记，http://tvkj.top/DC/yx/tvkj/svip.json
+🚀荷城茶秀，http://tvkj.top/DC/hccx/tvkj/svip.json
+🚀俊佬线路，http://tvkj.top/DC/jl/tvkj/svip.json
+🚀菜妮丝线，http://tvkj.top/DC/cns/tvkj/svip.json
+🚀采集无敌，https://codeberg.org/rghy/njyy/raw/branch/main/cjz.json
+🚀盒子里面，https://hezi.tvboxhz.top/TVBOX盒子
+🚀这个接口，https://www.macms.pro/box/3.json
+🚀酷玩影视，http://qrh.yimkj.cn/kw/酷玩.json
+🚀车妹影视，http://svip.weixine.net:88/uploads/itvbox/svip.json
+🚀饭太硬好，http://饭太硬.top/tv
+🚀文坤影视，http://qrh.yimkj.cn/wk/文坤.json
+🚀万达影视，http://sinopacifichk.com/box/56.txt
+🚀春盈天下，https://wds.ecsxs.com/230989.json   蜂蜜速度
+🚀心魔在线，https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json  好趣网线路：免费看，35非凡是高清
+🚀最新4k，   https://agit.ai/hu/hcr/raw/branch/master/4k.json
+🚀宝盒没宝，https://agit.ai/guot54/ygbh/raw/branch/master/pro%e5%8e%9f.json
+🚀小米接口，http://xhww.fun:63/小米/DEMO.json
+🚀分享者，https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8
 https://agit.ai/ystvy/yydsy/raw/branch/master/sub/ati.json  
 http://qrh.yimkj.cn/ym/壹梦.json
 https://raw.fgit.cf/PizazzGY/TVBox/main/api.json
 https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json
 fongmi多仓
 日后魔改多仓：主仓：http://rihou.vip:66  心动仓：http://rihou.vip:666 
+天微科技接口大全：
+https://tvkj.top/static/file/%E5%9C%A8%E7%BA%BF%E6%8E%A5%E5%8F%A3%E5%9C%B0%E5%9D%80%E5%A4%A7%E5%85%A8.txt
 
 宝盒可视tv线路：
 欧歌多仓够了：http://tv.nxog.top  主仓 绝配可视tv 
