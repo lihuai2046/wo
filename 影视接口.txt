@@ -1,5 +1,4 @@
-﻿老剧站点：
-明明影视，电影先生，起飞影院，网飞.tv，布雷，小苹果，玩偶，秒播，酷云，视频库，光棍，
+﻿老剧站点：明明影视，电影先生，起飞影院，网飞.tv，布雷，小苹果，玩偶，秒播，酷云，视频库，光棍，
 影渣渣，视中心，vidhub，七小时，首播，看吧，土豪tv，
 
 遇到m3u链接过长无法播放，需要在线URL解码一下，能找到真实地址
@@ -7,8 +6,10 @@
 pluto以下测试全部通过秒播：直播源支持txt格式，不能快进
 owen直播：https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.txt +北京广播
 fty直播线：https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt
-欧歌家庭：http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2
+欧歌家线：http://tv.nxog.top/m/333.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌
+欧歌备用：http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2
 欧文单仓：https://jihulab.com/owen2000wy/owentv/-/raw/main/OwenTV.json
+肥猫线路：https://raw.fastgit.org/lihuai2046/wo/main/feimao.json
 月光宝盒：https://raw.fastgit.org/lihuai2046/wo/main/ygbox.json
 小米线路：https://fastly.jsdelivr.net/gh/lihuai2046/wo@main/xiaomi.json
 南风线路：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
@@ -20,7 +21,6 @@ fty直播线：https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt
 dxawi0线：https://xhdwc.tk/0
 荷城备用：http://rihou.cc:88/荷城茶秀
 小胡同学：http://xiaohu.xzam.cn/xiaohu
-肥猫：https://raw.fastgit.org/lihuai2046/wo/main/feimao.json
 
 fongmi单仓  521影视支持磁力 115版不能进荷城..崩！
 https://agit.ai/ystvy/yydsy/raw/branch/master/sub/ati.json  
@@ -28,24 +28,16 @@ http://qrh.yimkj.cn/ym/壹梦.json
 https://raw.fgit.cf/PizazzGY/TVBox/main/api.json
 https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json
 fongmi多仓
-日后魔改多仓：主仓：http://rihou.vip:66  心动仓：http://rihou.vip:666
-https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0707.json
-挺好TH多仓竟然蜂蜜可用，奇葩！！！
-https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/%E7%BB%BF%E8%8C%B669.json 
+日后魔改多仓：主仓：http://rihou.vip:66  心动仓：http://rihou.vip:666 
 
 宝盒可视tv线路：
+欧歌多仓够了：http://tv.nxog.top  主仓 绝配可视tv 
+欧歌家庭多仓：http://tv.nxog.top/nxog/ou2.php?url=http://tv.nxog.top&xl=1&b=欧歌
 月光宝盒网盘4k：https://agit.ai/guot54/ygbh/raw/branch/master/plus/PRO.json
 猫爪线路老片全：https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json
-欧歌多仓够了：http://tv.nxog.top   绝配可视tv
 道长线路老片全：https://pastebin.com/raw/5NHaxyGR  蜂蜜和pluto都用不了还在维护
 潇洒空间：https://download.kstore.space/download/2863/01.txt 至今最全暴力魔改线路
-https://la.kstore.space/download/2863/01.txt
-三百个仓库竟然还在维护 蜂蜜兼容性测试，欧歌，万达，天威，文坤，多多观影，
-https://agit.ai/hu/hcr/raw/branch/master/99668.txt  这个他妈蜂蜜也能识别
-
-多多仓可用
-https://ghproxy.net/https://raw.githubusercontent.com/tv189ymail/ku2023/main/A1/ck.json  太阳线路
-https://agit.ai/hu/hcr/raw/branch/master/930.txt  短剧多仓
+潇洒备用：https://la.kstore.space/download/2863/01.txt
 
 加速地址：用户名/仓库名/main/文件名
 https://ghproxy.net/https://raw.githubusercontent.com/lihuai2046/wo/main/老片.txt
@@ -56,19 +48,7 @@ https://raw.fastgit.org/lihuai2046/wo/main/ygbox.json
 
 agit线路写法：
 https://agit.ai/账号/仓库/raw/branch/master/线路.txt
-https://www.agit.ai/账号/仓库/raw/commit/线路.txt  
-
-福利多仓 ： 内部线路蜂蜜可用
-https://raw.fastgit.org/ZTHA000/tvbox/main/flckname.json 挺好TH专用仓持续维护
-上边仓内VIP直播：https://pan.shangui.cc/f/10bzTw/512_092149_v（加密码）1.txt
-https://pan.shangui.cc/f/10bzTw/v%EF%BC%88%E5%8A%A0%E5%AF%86%E7%A0%81%EF%BC%891.txt
-https://agit.ai/66666/mao/raw/branch/master/00/xx/影视聚0.txt 分享者魔改线路
-https://agit.ai/66666/mao/raw/branch/master/00/xx/仓库2.json
-
-福利单仓：蜂蜜可用，宝盒不行
-https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8  tv魔改交流线路
-https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json 可用
-http://52bsj.vip:81/api/v3/file/get/67277/%E9%A5%AD%E5%A4%AA%E7%A1%AC.txt?sign=eG6j5FH3YGcHvUA6_cm9sMj8pZCTRCRiPcgoXKWoC54%3D%3A0
+https://www.agit.ai/账号/仓库/raw/commit/线路.txt
 
 zy-player线路：
 https://agit.ai/lcx/v/raw/branch/master/zy-player/18+.json 
@@ -84,11 +64,4 @@ https://jx.aidouer.net/?url=
 https://z1.m1907.top/?jx=  带播放器
 https://www.yemu.xyz/?url=  有潜力
 
-本地地址路径 clan://localhost/TVBox/bc.json
-★多仓链接：
-★多仓链接：
-
-jar共享包：可以自定义json 附上md5 :af82c8a5b41c5841d88a60fe830fda3b
-https://raw.githubusercontent.com/dlgt7/TvJar/master/jar/custom_spider.jar
-https://raw.kgithub.com/dlgt7/TvJar/main/jar/custom_spider.jar
 
