@@ -2,27 +2,27 @@
   "urls": [
     {
       "url": "http://rihou.vip:98/荷城茶秀",
-      "name": "荷城茶秀❤心动仓库"
+      "name": "荷城茶秀💖心动仓库"
     },
     {
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json",
-      "name": "荷城茶秀[备]❤心动仓库"
+      "name": "荷城茶秀[备]💖心动仓库"
     },
     {
       "url": "http://饭太硬.top/tv",
-      "name": "饭硬如石❤心动仓库"
+      "name": "饭硬如石💖心动仓库"
     },
     {
       "url": "http://肥猫.live",
-      "name": "肥猫不肥❤心动仓库"
+      "name": "肥猫不肥💖心动仓库"
     },
     {
       "url": "http://xiaohu.xzam.cn/xiaohu",
-      "name": "小胡解析❤心动仓库"
+      "name": "小胡解析💖心动仓库"
     },
     {
       "url": "https://weixine.net/ysc.json",
-      "name": "运输解析❤心动仓库"
+      "name": "运输解析💖心动仓库"
     },
     {
       "url": "https://codeberg.org/xmbjm/xmbjmjk/raw/branch/main/xmbjm.json",
@@ -37,8 +37,12 @@
       "name": "欧文解析❤心动仓库"
     },
     {
-      "url": "https://fastly.jsdelivr.net/gh/lihuai2046/wo@main/xiaomi.json",
+      "url": "http://xhww.fun:63/小米/DEMO.json",
       "name": "小米解析❤心动仓库"
+    },
+    {
+      "url": "https://fastly.jsdelivr.net/gh/lihuai2046/wo@main/xiaomi.json",
+      "name": "小米备用❤心动仓库"
     },
     {
       "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌",
@@ -49,8 +53,32 @@
       "name": "大虾磁力❤心动仓库"
     },
     {
+      "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+      "name": "分享者线❤心动仓库"
+    },
+    {
+      "url": "https://agit.ai/hu/hcr/raw/branch/master/4k.json",
+      "name": "4k解析❤心动仓库"
+    },
+    {
+      "url": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json",
+      "name": "心魔解析❤心动仓库"
+    },
+    {
       "url": "http://pandown.pro/tvbox/tvbox.json",
       "name": "巧计解析❤心动仓库"
+    },
+    {
+      "url": "http://qrh.yimkj.cn/wk/文坤.json",
+      "name": "文坤解析❤心动仓库"
+    },
+    {
+      "url": "http://sinopacifichk.com/box/56.txt",
+      "name": "万达解析❤心动仓库"
+    },
+    {
+      "url": "https://wds.ecsxs.com/230989.json",
+      "name": "春益解析❤心动仓库"
     },
     {
       "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
